@@ -118,3 +118,7 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [14Apr2025 23:14:37.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XwazitaX joined the game
 [14Apr2025 23:39:57.072] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: XwazitaX lost connection: Disconnected
 [14Apr2025 23:39:57.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XwazitaX left the game
+[14Apr2025 23:44:28.388] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: CHOCOC_A[/127.42.79.195:59073] logged in with entity id 10674 at (-945.811408187467, 119.0, 948.1529673768601)
+[14Apr2025 23:44:28.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CHOCOC_A joined the game
+[14Apr2025 23:54:24.392] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: XwazitaX[/127.203.136.146:57055] logged in with entity id 14436 at (-602.4298959948374, 11.0, 731.5806465799794)
+[14Apr2025 23:54:24.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XwazitaX joined the game
